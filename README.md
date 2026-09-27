@@ -1,4 +1,4 @@
-# Hi, I’m Aviel Adika
+Aviel Adika
 
 I build developer tools, AI-assisted applications, and software in Python, Java, and C/C++. I’m looking for junior software engineering opportunities.
 
